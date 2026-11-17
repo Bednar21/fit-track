@@ -34,7 +34,8 @@ Aplikacja konsolowa napisana w języku Python służąca do monitorowania aktywn
 ## 🧩 Moduły
 
 ### trening.py – Oliwier
-_do uzupełnienia_
+Opcja 1 w menu. Pyta o rodzaj aktywności, czas trwania i spalone kalorie,
+a następnie zapisuje trening z dzisiejszą datą do pliku `treningi.json`.
 
 ### bmi.py – Mateusz
 _do uzupełnienia_

@@ -25,4 +25,3 @@ def kalkulator():
     print(f"Twoje BMI: {bmi:.1f} ({opis})")
     print(f"Podstawowe zapotrzebowanie (BMR): {bmr:.0f} kcal/dzień")
 
-kalkulator()

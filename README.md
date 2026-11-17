@@ -43,4 +43,10 @@ _do uzupełnienia_
 _do uzupełnienia_
 
 ### historia.py – Kamil
-_do uzupełnienia_
+Moduł odpowiada za wyświetlanie historii zapisanych treningów oraz eksport danych do pliku CSV.
+- Funkcja pokaz_historie() odczytuje treningi z treningi.json za pomocą wczytaj_treningi() z modułu trening.py i wyświetla je w konsoli.
+- Jeśli nie ma zapisanych treningów, program wyświetla odpowiedni komunikat.
+- Po wyświetleniu historii użytkownik może wybrać eksport do pliku treningi.csv.
+- Funkcja eksportuj_csv(treningi) zapisuje dane do CSV z nagłówkami odpowiadającymi polom treningów; kolumny są oddzielone średnikami.
+- Moduł obsługuje podstawowe błędy odczytu pliku JSON i zapisu CSV.
+Użycie: uruchom python main.py i wybierz opcję 4. Historia treningów. Po wyświetleniu historii wpisz t, aby wyeksportować dane, lub n, aby wrócić do menu.

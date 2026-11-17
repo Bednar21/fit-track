@@ -16,5 +16,4 @@ Aplikacja konsolowa napisana w języku Python służąca do monitorowania aktywn
 ## 🚀 Instrukcja uruchomienia
 1. Sklonuj repozytorium:
    ```bash
-   git clone [https://github.com/Bednar21/fit-track.git](https://github.com/Bednar21/fit-track.git)
-   cd fit-track
+   git clone https://github.com/Bednar21/fit-track.git

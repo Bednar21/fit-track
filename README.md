@@ -43,7 +43,8 @@ Opcja 2 w menu. Na podstawie wagi, wzrostu, wieku i płci liczy BMI
 podstawowe zapotrzebowanie kaloryczne BMR wzorem Mifflina-St Jeora. 
 
 ### statystyki.py – Filip
-_do uzupełnienia_
+Opcja 3 w menu. Wczytuje treningi z `treningi.json` i pokazuje podsumowanie:
+liczbę treningów, łączny czas, łącznie spalone kalorie i średnią na trening.
 
 ### historia.py – Kamil
 Moduł odpowiada za wyświetlanie historii zapisanych treningów oraz eksport danych do pliku CSV.

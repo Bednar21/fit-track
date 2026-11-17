@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dane aplikacji
+treningi.json
+treningi.csv

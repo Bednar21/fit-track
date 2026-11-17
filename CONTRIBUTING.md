@@ -26,3 +26,8 @@ Każdy Pull Request przed zmergowaniem musi zawierać:
 - Krótki opis wykonanych prac.
 - Link do powiązanej karty w Trello.
 - Informację o ewentualnych problemach lub ograniczeniach.
+
+## 5. Podział plików
+- Każdy edytuje tylko swój moduł (`trening.py`, `bmi.py`, `statystyki.py`, `historia.py`) i swoją sekcję w README.
+- Przed utworzeniem nowej gałęzi pobierz zmiany: `git pull upstream main`.
+- Pull Requesty przegląda i scala Project Manager.

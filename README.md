@@ -38,7 +38,9 @@ Opcja 1 w menu. Pyta o rodzaj aktywności, czas trwania i spalone kalorie,
 a następnie zapisuje trening z dzisiejszą datą do pliku `treningi.json`.
 
 ### bmi.py – Mateusz
-_do uzupełnienia_
+Opcja 2 w menu. Na podstawie wagi, wzrostu, wieku i płci liczy BMI
+(z oceną: niedowaga / waga prawidłowa / nadwaga / otyłość) oraz dzienne
+podstawowe zapotrzebowanie kaloryczne BMR wzorem Mifflina-St Jeora. 
 
 ### statystyki.py – Filip
 _do uzupełnienia_
